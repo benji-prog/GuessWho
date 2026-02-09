@@ -165,4 +165,15 @@ function selectCategory(cat) {
 
 rulesBtn.onclick = () => rulesPopup.classList.remove("hidden");
 rulesClose.onclick = () => rulesPopup.classList.add("hidden");
+
 rulesOk.onclick = () => rulesPopup.classList.add("hidden");
+
+const popups = document.querySelectorAll('.popup');
+
+popups.forEach(popup => {
+    popup.addEventListener('click', (e) => {
+        if (e.target === popup) {
+            popup.classList.add('hidden');
+        }
+    });
+});
