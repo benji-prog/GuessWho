@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+  <title>Guess Who?</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>GUESS WHO?</h1>
+</header>
+
+<main>
+  <section class="controls">
+    <button id="showQuestionsBtn">Kérdések</button>
+    <button id="rulesBtn" class="rules-btn">Játékszabály</button>
+  </section>
+
+  <section class="board" id="board"></section>
+</main>
+
+<footer>
+  <p>Készítők: Theodos Benjamin, Berta Krisztián A.</p>
+  <p>&copy; 2026 Guess Who? Minden jog fenntartva.</p>
+</footer>
+
+
+<div id="popup" class="popup hidden">
+  <div class="popup-content">
+    <span id="popupClose" class="popup-close">&times;</span>
+    <p id="popupText"></p>
+    <div id="popupButtons" class="popup-buttons"></div>
+  </div>
+</div>
+
+<div id="questionsPopup" class="popup hidden">
+  <div class="popup-content">
+    <span id="questionsClose" class="popup-close">&times;</span>
+    <div class="questions-container">
+      <div class="categories" id="categories"></div>
+      <div class="questions-grid" id="questionsGrid"></div>
+    </div>
+    <p id="questionAnswer" class="question-answer"></p>
+</div>
+</div>
+
+<div id="rulesPopup" class="popup hidden">
+  <div class="popup-content">
+    <span id="rulesClose" class="popup-close">&times;</span>
+    <h2>Játékszabály</h2>
+    <p>
+      A játék célja kitalálni a titkos karaktert a lehető leghamarabb.
+      Kérdéseket tehetsz fel a karakter tulajdonságairól, és a válaszok
+      alapján kizárhatod a nem megfelelő karaktereket. Ha biztos vagy a
+      tippedben, kattints a karakterre, és válassz IGEN/NEM. A cél
+      a karakter helyes kitalálása a legkevesebb kérdéssel és idő alatt.
+    </p>
+    <div class="popup-buttons">
+      <button class="ok" id="rulesOk">OK</button>
+    </div>
+  </div>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

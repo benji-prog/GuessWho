@@ -1,0 +1,63 @@
+{
+  "karakterek": [
+    { "id": 0, "nev": "Bence", "img": "img/bence.png", "nem": "férfi", "korcsoport": "fiatal", "haj_statusz": "van", "hajszin": "szőke", "hajhossz": "rövid", "arcszorzet": "nincs", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "kék", "borszin": "világos", "kalap": "van", "ruhazat": "póló", "kiegeszito": "nincs", "arckifejezes": "vidám" },
+    { "id": 1, "nev": "Dezső", "img": "img/dezso.png", "nem": "férfi", "korcsoport": "idős", "haj_statusz": "nincs", "hajszin": "kopasz", "hajhossz": "nincs", "arcszorzet": "szakáll", "szemuveg": "van", "szemuveg_szin": "fekete", "szemszin": "barna", "borszin": "sötét", "kalap": "nincs", "ruhazat": "ing", "kiegeszito": "tetoválás", "arckifejezes": "komoly" },
+    { "id": 2, "nev": "Lilla", "img": "img/lilla.png", "nem": "nő", "korcsoport": "felnőtt", "haj_statusz": "van", "hajszin": "barna", "hajhossz": "hosszú", "arcszorzet": "nincs", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "zöld", "borszin": "világos", "kalap": "nincs", "ruhazat": "ruha", "kiegeszito": "fülbevaló", "arckifejezes": "szomorú" },
+    { "id": 3, "nev": "Baksai", "img": "img/baksai.png", "nem": "férfi", "korcsoport": "felnőtt", "haj_statusz": "van", "hajszin": "barna", "hajhossz": "rövid", "arcszorzet": "borosta", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "kék", "borszin": "világos", "kalap": "nincs", "ruhazat": "póló", "kiegeszito": "nyaklánc", "arckifejezes": "mérges" },
+    { "id": 4, "nev": "Zsófia", "img": "img/zsofia.png", "nem": "nő", "korcsoport": "felnőtt", "haj_statusz": "van", "hajszin": "vörös", "hajhossz": "közepes", "arcszorzet": "nincs", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "kék", "borszin": "sötét", "kalap": "nincs", "ruhazat": "póló", "kiegeszito": "nyaklánc", "arckifejezes": "vidám" },
+    { "id": 5, "nev": "Gáspár", "img": "img/gaspar.png", "nem": "férfi", "korcsoport": "idős", "haj_statusz": "van", "hajszin": "ősz", "hajhossz": "rövid", "arcszorzet": "bajusz", "szemuveg": "van", "szemuveg_szin": "szürke", "szemszin": "szürke", "borszin": "világos", "kalap": "nincs", "ruhazat": "pulóver", "kiegeszito": "nincs", "arckifejezes": "fáradt" },
+    { "id": 6, "nev": "Adél", "img": "img/adel.png", "nem": "nő", "korcsoport": "fiatal", "haj_statusz": "van", "hajszin": "barna", "hajhossz": "hosszú", "arcszorzet": "nincs", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "barna", "borszin": "közepes", "kalap": "nincs", "ruhazat": "ing", "kiegeszito": "fülbevaló", "arckifejezes": "meglepett" },
+    { "id": 7, "nev": "Klára", "img": "img/klara.png", "nem": "nő", "korcsoport": "felnőtt", "haj_statusz": "nincs", "hajszin": "kopasz", "hajhossz": "nincs", "arcszorzet": "nincs", "szemuveg": "van", "szemuveg_szin": "piros", "szemszin": "zöld", "borszin": "világos", "kalap": "van", "ruhazat": "pulóver", "kiegeszito": "nincs", "arckifejezes": "komoly" },
+    { "id": 8, "nev": "Krisztián", "img": "img/krisztian.png", "nem": "férfi", "korcsoport": "felnőtt", "haj_statusz": "van", "hajszin": "szőke", "hajhossz": "rövid", "arcszorzet": "borosta", "szemuveg": "van", "szemuveg_szin": "fekete", "szemszin": "zöld", "borszin": "világos", "kalap": "nincs", "ruhazat": "zakó", "kiegeszito": "nincs", "arckifejezes": "vidám" },
+    { "id": 9, "nev": "Petra", "img": "img/petra.png", "nem": "nő", "korcsoport": "fiatal", "haj_statusz": "van", "hajszin": "szőke", "hajhossz": "közepes", "arcszorzet": "nincs", "szemuveg": "van", "szemuveg_szin": "arany", "szemszin": "kék", "borszin": "világos", "kalap": "nincs", "ruhazat": "póló", "kiegeszito": "nyaklánc", "arckifejezes": "vidám" },
+    { "id": 10, "nev": "Márk", "img": "img/mark.png", "nem": "férfi", "korcsoport": "felnőtt", "haj_statusz": "van", "hajszin": "barna", "hajhossz": "rövid", "arcszorzet": "borosta", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "szürke", "borszin": "közepes", "kalap": "nincs", "ruhazat": "póló", "kiegeszito": "tetoválás", "arckifejezes": "szomorú" },
+    { "id": 11, "nev": "Mira", "img": "img/mira.png", "nem": "nő", "korcsoport": "fiatal", "haj_statusz": "van", "hajszin": "fekete", "hajhossz": "hosszú", "arcszorzet": "nincs", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "barna", "borszin": "sötét", "kalap": "van", "ruhazat": "ing", "kiegeszito": "fülbevaló", "arckifejezes": "vidám" },
+    { "id": 12, "nev": "Vilmos", "img": "img/vilmos.png", "nem": "férfi", "korcsoport": "idős", "haj_statusz": "nincs", "hajszin": "kopasz", "hajhossz": "nincs", "arcszorzet": "nincs", "szemuveg": "nincs", "szemuveg_szin": "nincs", "szemszin": "kék", "borszin": "világos", "kalap": "van", "ruhazat": "póló", "kiegeszito": "nincs", "arckifejezes": "meglepett" }
+  ],
+  "kerdesek": [
+    { "category": "Általános", "field": "nem", "value": "férfi", "text": "Férfi?" },
+    { "category": "Általános", "field": "nem", "value": "nő", "text": "Nő?" },
+    { "category": "Általános", "field": "korcsoport", "value": "fiatal", "text": "Fiatal?" },
+    { "category": "Általános", "field": "korcsoport", "value": "felnőtt", "text": "Felnőtt?" },
+    { "category": "Általános", "field": "korcsoport", "value": "idős", "text": "Idős?" },
+
+    { "category": "Haj", "field": "haj_statusz", "value": "van", "text": "Van haja?" },
+    { "category": "Haj", "field": "haj_statusz", "value": "nincs", "text": "Kopasz?" },
+    { "category": "Haj", "field": "hajszin", "value": "szőke", "text": "Szőke a haja?" },
+    { "category": "Haj", "field": "hajszin", "value": "barna", "text": "Barna a haja?" },
+    { "category": "Haj", "field": "hajszin", "value": "fekete", "text": "Fekete a haja?" },
+    { "category": "Haj", "field": "hajszin", "value": "vörös", "text": "Vörös a haja?" },
+    { "category": "Haj", "field": "hajszin", "value": "ősz", "text": "Ősz a haja?" },
+    { "category": "Haj", "field": "hajhossz", "value": "rövid", "text": "Rövid a haja?" },
+    { "category": "Haj", "field": "hajhossz", "value": "közepes", "text": "Közepes hosszúságú a haja?" },
+    { "category": "Haj", "field": "hajhossz", "value": "hosszú", "text": "Hosszú a haja?" },
+
+    { "category": "Arc", "field": "arcszorzet", "value": "nincs", "text": "Nincs arcszőrzete?" },
+    { "category": "Arc", "field": "arcszorzet", "value": "borosta", "text": "Borostás?" },
+    { "category": "Arc", "field": "arcszorzet", "value": "szakáll", "text": "Van szakálla?" },
+    { "category": "Arc", "field": "arcszorzet", "value": "bajusz", "text": "Van bajusza?" },
+    { "category": "Arc", "field": "arckifejezes", "value": "vidám", "text": "Vidám az arckifejezése?" },
+    { "category": "Arc", "field": "arckifejezes", "value": "komoly", "text": "Komoly az arckifejezése?" },
+    { "category": "Arc", "field": "arckifejezes", "value": "szomorú", "text": "Szomorú az arckifejezése?" },
+    { "category": "Arc", "field": "arckifejezes", "value": "mérges", "text": "Mérges az arckifejezése?" },
+
+    { "category": "Szem", "field": "szemuveg", "value": "van", "text": "Van szemüvege?" },
+    { "category": "Szem", "field": "szemuveg", "value": "nincs", "text": "Nincs szemüvege?" },
+    { "category": "Szem", "field": "szemszin", "value": "kék", "text": "Kék a szeme?" },
+    { "category": "Szem", "field": "szemszin", "value": "barna", "text": "Barna a szeme?" },
+    { "category": "Szem", "field": "szemszin", "value": "zöld", "text": "Zöld a szeme?" },
+    { "category": "Szem", "field": "szemszin", "value": "szürke", "text": "Szürke a szeme?" },
+
+    { "category": "Kiegészítők", "field": "kalap", "value": "van", "text": "Van kalapja?" },
+    { "category": "Kiegészítők", "field": "kalap", "value": "nincs", "text": "Nincs kalapja?" },
+    { "category": "Kiegészítők", "field": "kiegeszito", "value": "fülbevaló", "text": "Visel fülbevalót?" },
+    { "category": "Kiegészítők", "field": "kiegeszito", "value": "nyaklánc", "text": "Van nyaklánca?" },
+    { "category": "Kiegészítők", "field": "kiegeszito", "value": "tetoválás", "text": "Van tetoválása?" },
+
+    { "category": "Ruházat", "field": "ruhazat", "value": "póló", "text": "Pólót visel?" },
+    { "category": "Ruházat", "field": "ruhazat", "value": "ing", "text": "Inget visel?" },
+    { "category": "Ruházat", "field": "ruhazat", "value": "pulóver", "text": "Pulóvert visel?" },
+    { "category": "Ruházat", "field": "ruhazat", "value": "ruha", "text": "Ruhát visel?" },
+    { "category": "Ruházat", "field": "ruhazat", "value": "zakó", "text": "Zakót visel?" }
+]
+}
