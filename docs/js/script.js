@@ -55,6 +55,8 @@ function startGame() {
     questionCount = 0;
     wrongGuesses = 0;
 
+    questionAnswer.innerText = "";
+
     activeCharacters = characters.map(() => true);
 
     characters.forEach((char, index) => {
@@ -176,4 +178,5 @@ popups.forEach(popup => {
         }
     });
 });
+
 
