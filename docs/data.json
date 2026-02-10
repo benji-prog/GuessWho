@@ -58,6 +58,12 @@
     { "category": "Ruházat", "field": "ruhazat", "value": "ing", "text": "Inget visel?" },
     { "category": "Ruházat", "field": "ruhazat", "value": "pulóver", "text": "Pulóvert visel?" },
     { "category": "Ruházat", "field": "ruhazat", "value": "ruha", "text": "Ruhát visel?" },
-    { "category": "Ruházat", "field": "ruhazat", "value": "zakó", "text": "Zakót visel?" }
+    { "category": "Ruházat", "field": "ruhazat", "value": "zakó", "text": "Zakót visel?" },
+
+    { "category": "Bőrszín", "field": "borszin", "value": "világos", "text": "Világos színű a bőre?" },
+    { "category": "Bőrszín", "field": "borszin", "value": "közepes", "text": "Közepes színű a bőre?" },
+    { "category": "Bőrszín", "field": "borszin", "value": "sötét", "text": "Sötét színű a bőre?" }
+    
 ]
 }
+
