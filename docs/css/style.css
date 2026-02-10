@@ -16,7 +16,7 @@ body {
 }
 
 body{
-    background-image: url("img/back.gif");
+    background-image: url('/img/back.gif');
 }
 
 header {
@@ -336,6 +336,7 @@ footer {
     }
 
 }
+
 
 
 
