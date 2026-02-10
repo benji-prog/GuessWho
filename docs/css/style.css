@@ -8,11 +8,15 @@
 
 html,
 body {
-    background-image: url(img/back.gif);
+    
     height: 100%;
     display: flex;
     flex-direction: column;
     font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+body{
+    background-image: url(img/back.gif);
 }
 
 header {
@@ -332,5 +336,6 @@ footer {
     }
 
 }
+
 
 
